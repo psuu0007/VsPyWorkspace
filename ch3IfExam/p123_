@@ -1,0 +1,3 @@
+money = True
+
+if money:
