@@ -37,3 +37,17 @@ print(jkl)
 jkl = 1 not in [1, 2, 3]
 print(jkl)
 
+
+
+# 만약 주머니에 돈이 있으면 택시를 타고 가고,
+# 없으면 걸어가라.
+pocket =  ['paper', 'phone', 'money']
+if 'money' in pocket:
+    jkl = '택시를 타고 간다'
+    # print(jkl)
+else:
+    jkl = '걸어 간다'
+    # print(jkl)
+print(jkl)
+
+
